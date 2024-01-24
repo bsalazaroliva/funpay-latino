@@ -1,0 +1,145 @@
+header nav li a{
+    color: black
+}
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.body {
+    background: linear-gradient(#7b68ee, #ffa07a);
+    background-size: cover;
+}
+.titulo {
+    width: 200px;
+    height: 50px;
+    margin: 10px;
+    padding: 5px;
+    font-style: italic;
+}
+.nav {
+    background-color: #ffff36;
+    border: 5px solid orange;
+    border-radius: 20px;
+    margin: 20px;
+    width: 150px;
+    height: 150px;
+    list-style: none;
+    padding: 20px;
+
+}
+
+.servidores-lol {
+    background-color: #64c9cf;
+    height: 120px;
+    width: 150px;
+    padding: 15px;
+    border: 5px solid black;
+    margin: 20px;
+    list-style: none;
+    border-radius: 20px;
+}
+
+.servidores-l2 {
+    background-color: #64c9cf;
+    height: 150px;
+    width: 150px;
+    padding: 15px;
+    border: 5px solid black;
+    margin: 20px;
+    border-radius: 20px ;
+    list-style: none;
+}
+.valorant-venta {
+    background-color: #64c9cf;
+    height: 150px;
+    width: 150px;
+    padding: 15px;
+    border: 5px solid black;
+    margin: 20px;
+    border-radius: 20px ;
+    list-style: none;
+}
+
+.links {
+    font-size: 20px;
+    width: 200px;
+    margin: 10px;
+    font-style: italic;
+}
+
+img.logo-pagina{
+    width: 200px;
+    height: 200px;
+    border: 5px solid #ffb740;
+    margin: 10px;
+    border-radius: 10px;
+}
+img.imagen-lol{
+    width: 230px;
+    border: 5px solid #ffb740;
+    margin: 10px;
+    border-radius: 20px;
+
+}
+img.imagen-l2{
+    width: 250px;
+    border: 10px solid gray;
+}
+img.imagen-valorant{
+    width: 250px;
+    border: 10px solid #000;
+}
+img.imagen-innadril{
+    width: 600px;
+    border: 10px solid black;
+}
+img.lote-cuchillo{
+    width: 300px;
+    height: 200px;
+    border: 5px solid black;
+}
+img.xr{
+    width: 300px;
+    height: 250px;
+    border: 5px solid black;
+}
+img.Cuchillo-shadow{
+    width: 300px;
+    height: 200px;
+    border: 5px solid black;
+}
+
+.body-categorias {
+    background: linear-gradient(to right,#6495ed,#fa8072);
+}
+
+.nav-categoria {
+    width: 300px;
+    padding: 10px;
+    border: 10px;
+    margin: 10px;
+}
+.nav-categoria-2 {
+    list-style: none;
+    height: 80px;
+    width: 150px;
+}
+
+
+
+
+
+
+
+
+
+.card{
+    margin: 10px;
+    color: blue;
+}
+
+.quienes-somos {
+    margin: 10px;
+}
